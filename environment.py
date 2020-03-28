@@ -26,7 +26,7 @@ def set_default_driver():
     options.add_argument('--disable-gpu')
 
     # по умолчанию 4, можно настроить:)
-    # config.timeout = 666
+    config.timeout = 7
 
     # для удаленного
     if settings.SELENIUM_SERVER_STANDALONE:
