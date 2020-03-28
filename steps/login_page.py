@@ -1,8 +1,7 @@
 #-*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
-import time
-from behave import then, when
+from behave import when
 
 
 @when('I write user name:"{user_name}"')
