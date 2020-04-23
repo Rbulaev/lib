@@ -29,4 +29,3 @@ Feature: test case :)
     When I select publication date:"Последние 10 лет"
     When I write advanced text"книга"
     When I click advanced search button
-    
