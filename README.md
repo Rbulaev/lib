@@ -8,4 +8,4 @@
 
 настройки в environment.py
 
-
+тест кейсы в *.feature(gherkin style)
